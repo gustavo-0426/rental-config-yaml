@@ -1,5 +1,0 @@
-app:
-  version: v1
-
-server:
-  port: 0000
