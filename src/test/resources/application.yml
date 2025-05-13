@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: template-cloud-service
+
+  profiles:
+    active: dev
+
+---
